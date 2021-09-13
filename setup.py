@@ -21,9 +21,9 @@ setuptools.setup(
     classifiers=[
         "License :: OSI Approved :: Apache License 2.0",
         "Operating System :: Unix",
-        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
         "Blockchain :: Celo"
 
     ],
-    python_requires='>=3.7',
+    python_requires='>=3.8',
 )
